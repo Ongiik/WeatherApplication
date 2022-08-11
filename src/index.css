@@ -2,6 +2,9 @@ body {
   margin: 0;
   font-family: "Roboto", arial;
   background-color: #D5D4D4;
+  background: url(weather_bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
