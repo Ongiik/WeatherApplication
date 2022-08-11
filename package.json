@@ -1,8 +1,8 @@
 {
   "name": "react-weather-app",
-  "homepage": "https://Ongiik.github.io/WeatherApplication",
+  "homepage": "https://ongiik.github.io/WeatherApplication/",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
